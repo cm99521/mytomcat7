@@ -21,14 +21,13 @@ bin/setenv.*
 java/org/apache/catalina/startup/catalina.properties
 modules/jdbc-pool/bin
 modules/jdbc-pool/includes
-webapps/docs/jdbc-pool.xml
-webapps/activiti*
-target/classes
-target/test-classes
-bin
-logs
-modules
-res
-work
+/webapps/docs/jdbc-pool.xml
+/webapps/activiti*
+/bin
+/logs
+/modules
+/res
+/work
 
+/target
 
